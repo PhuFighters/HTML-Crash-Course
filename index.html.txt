@@ -1,0 +1,37 @@
+<!DOCTYPE html>                                    <!-- File Opening -->
+<html>                                             <!-- html Opening -->
+    <head>                                         <!-- Head Opening -->
+        <title>HTML Spooky Phu</title>
+    </head>                                        <!-- Head Closing -->
+    <body>                                         <!-- Body Opening -->
+                                      
+         <!-- Comments -->
+         <h1>Heading One</h1>                        <!-- Headings -->
+         <h2>Heading One</h2>
+         <h5>Heading One</h5>   <!-- The numbers indicate font size, 1 being the largest and going down -->
+
+        <!-- Paragraph -->
+
+        <p>                                       <!-- Paragraph Opening -->
+
+            Phu sucks at League
+
+        </p>                                      <!-- Paragraph Closing -->
+
+
+        <!-- Testing Elements -->
+
+        <p>                                       <!-- Bolding Words -->
+
+            <strong>Phu sucks at League</strong>
+
+        </p>
+
+         <p>                                      <!-- Italicizing Words -->
+
+            <em>Phu sucks at League</em>
+
+        </p>                          
+
+    </body>                                        <!-- Body Closing -->
+</html>                                            <!-- html Closing -->
